@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Vahit Keskin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**vahitkeskin/vahitkeskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>A developer in love with android</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm developing projects related to **Kotlin**
+- 💻 I love using Software as a solution for every `Problem`
+- ☕ How to reach me **vhtkskn63@gmail.com**
+
+* Kotlin
+* Jetpack Compose
+* Git, Github, Bitbucket
+* OOP
+* Clean Code
+* Java
+* Ruby
+* Swift
+* SwiftUI
+* C#
+
+<img src="https://github-readme-stats.vercel.app/api?username=vahitkeskin&show_icons=true&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahitkeskin&layout=compact&show_icons=true&theme=radical">
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vahit-keskin/"/></a>
+</p>
