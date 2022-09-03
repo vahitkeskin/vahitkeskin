@@ -3,8 +3,8 @@
 <h3>A developer in love with android</h3>
 
 
-- 🌱 I'm developing projects related to **Kotlin**
-- 💻 I love using Software as a solution for every `Problem`
+- 🌱 I'm developing projects related to **Kotlin & Jetpack Compose**
+- 💻 I'm trying to be better than I was yesterday.
 - ☕ How to reach me **vhtkskn63@gmail.com**
 
 * Kotlin
