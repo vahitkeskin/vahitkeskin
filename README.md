@@ -2,6 +2,9 @@
 
 <h3>A developer in love with android</h3>
 
+<img src="https://github-readme-stats.vercel.app/api?username=vahitkeskin&show_icons=true&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahitkeskin&layout=compact&show_icons=true&theme=radical">
 
 - 🌱 I'm developing projects related to **Kotlin & Jetpack Compose**
 - 💻 I'm trying to be better than I was yesterday.
@@ -17,12 +20,6 @@
 * Swift
 * SwiftUI
 * C#
-
-<img src="https://github-readme-stats.vercel.app/api?username=vahitkeskin&show_icons=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahitkeskin&layout=compact&show_icons=true&theme=radical">
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
