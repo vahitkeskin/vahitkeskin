@@ -13,7 +13,7 @@
 - 🌱 I'm developing projects related to **Kotlin & Jetpack Compose**
 - 💻 I'm trying to be better than I was yesterday.
 - ☕ How to reach me **vhtkskn63@gmail.com**
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/vahit-keskin/
+- <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> https://www.linkedin.com/in/vahit-keskin/
 
 * Kotlin
 * Jetpack Compose
