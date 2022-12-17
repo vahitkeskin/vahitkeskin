@@ -16,7 +16,7 @@
 
 * Kotlin
 * Jetpack Compose
-* Git, Github, Bitbucket
+* Git, Github, Bitbucket, Jira
 * OOP
 * Clean Code
 * Java
