@@ -25,6 +25,10 @@
 * SwiftUI
 * C#
 
+</br>
+<a href="https://stackoverflow.com/users/18201304/vahit-keskin"><img src="https://stackexchange.com/users/flair/10860110.png" width="208" height="58" alt="profile for Vahit Keskin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Vahit Keskin on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+</br>
+
 ### Technologies
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
