@@ -44,6 +44,21 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vahit-keskin/"/></a>
+	<a href="https://stackoverflow.com/users/18201304/vahit-keskin" target="_blank">
+		<img align="center" src="https://madsourcer.com/wp-content/uploads/stackoverflow.png" alt="stackoverflow" height="40" width="40" />
+	</a>
+	<a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
+	</a>
+	<a href="mailto:vhtkskn63@gmail.com" target="_blank">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="40" width="40" />
+	</a>
+  	<a href="https://www.instagram.com/keskin.vahit/" target="_blank">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="instagram" height="40" width="40" />
+	</a>
+  	<a href="https://twitter.com/VahitKeskin11" target="_blank">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="40" width="40" />
+	</a>
 </p>
