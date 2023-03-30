@@ -62,7 +62,7 @@
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="instagram" height="40" width="40" />
 	</a>
 	&ensp;
-  	<a href="https://twitter.com/VahitKeskin11" target="_blank">
+  	<a href="https://twitter.com/iamvahitkeskin" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="40" width="40" />
 	</a>
 </p>
