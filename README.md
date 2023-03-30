@@ -46,12 +46,16 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+	<a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
+	</a>
+	&ensp;
 	<a href="https://stackoverflow.com/users/18201304/vahit-keskin" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="40" width="40" />
 	</a>
 	&ensp;
-	<a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
+	<a href="https://developers.google.com/profile/u/vahitkeskin" target="_blank">
+		<img align="center" src="https://developers.google.com/site-assets/developers-logo-color.svg" alt="linkedin" height="40" width="40" />
 	</a>
 	&ensp;
 	<a href="mailto:vhtkskn63@gmail.com" target="_blank">
