@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Vahit Keskin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3>A developer in love with android</h3>
+<h3>A developer in love with android 👨🏻‍💻 📲</h3>
+
+<img src="https://user-images.githubusercontent.com/36104238/228931294-728ecd08-f34b-40c2-8323-e40992c9ed19.gif">
 
 <a href="https://medium.com/@vahitkeskin"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 <a href="https://github.com/vahitkeskin"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
