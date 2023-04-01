@@ -14,11 +14,10 @@
 
 - 🌱 I'm developing projects related to **Kotlin & Jetpack Compose**
 - 💻 I'm trying to be better than I was yesterday.
-- ☕ How to reach me **vhtkskn63@gmail.com**
 
 * Kotlin
 * Jetpack Compose
-* Git, Github, Bitbucket, Jira
+* Git, Github, Bitbucket, Jira, Trello
 * OOP
 * Clean Code
 * Java
