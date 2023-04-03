@@ -44,7 +44,7 @@
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white")
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🧑‍💻</h3>
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank">
