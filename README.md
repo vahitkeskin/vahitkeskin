@@ -72,6 +72,6 @@
 	</a>
 		&ensp;
   	<a href="https://twitter.com/iamvahitkeskin" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/36104238/229906623-49226f0a-1499-41fb-ab6c-20b15a93b6fa.jpg" alt="twitter" height="40" width="120" />
+		<img align="center" src="https://user-images.githubusercontent.com/36104238/229906623-49226f0a-1499-41fb-ab6c-20b15a93b6fa.jpg" alt="twitter" height="40" width="80" />
 	</a>
 </p>
