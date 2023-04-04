@@ -71,7 +71,7 @@
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="40" width="40" />
 	</a>
 		&ensp;
-  	<a href="https://twitter.com/iamvahitkeskin" target="_blank">
+  	<a href="https://medium.com/@vahitkeskin" target="_blank">
 		<img align="center" src="https://user-images.githubusercontent.com/36104238/229906623-49226f0a-1499-41fb-ab6c-20b15a93b6fa.jpg" alt="twitter" height="40" width="80" />
 	</a>
 </p>
