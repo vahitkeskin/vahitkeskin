@@ -44,7 +44,7 @@
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white")
 
 
-<h3 align="left">Connect with me 🧑‍💻</h3>
+<h3 align="left">Connect with me 👨🏻‍💻</h3>
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank">
@@ -69,5 +69,9 @@
 	&ensp;
   	<a href="https://twitter.com/iamvahitkeskin" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="40" width="40" />
+	</a>
+		&ensp;
+  	<a href="https://twitter.com/iamvahitkeskin" target="_blank">
+		<img align="center" src="https://user-images.githubusercontent.com/36104238/229906623-49226f0a-1499-41fb-ab6c-20b15a93b6fa.jpg" alt="twitter" height="40" width="120" />
 	</a>
 </p>
