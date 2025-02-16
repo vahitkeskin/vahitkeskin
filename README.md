@@ -68,7 +68,7 @@
 	</a>
 	&ensp;
   	<a href="https://twitter.com/iamvahitkeskin" target="_blank">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="40" width="40" />
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1920px-X_logo_2023.svg.png" alt="twitter" height="40" width="40" />
 	</a>
 		&ensp;
   	<a href="https://medium.com/@vahitkeskin" target="_blank">
