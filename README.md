@@ -175,5 +175,5 @@
 <br/>
 
 <div align="center">
-  <p>© 2025 Vahit Keskin. Built with ❤️ and Kotlin.</p>
+  <p>© 2026 Vahit Keskin. Built with ❤️ and Kotlin.</p>
 </div>
