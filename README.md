@@ -133,24 +133,37 @@
 
 ## 🎓 Education & Analytics
 
-<table align="center" width="100%">
+## 🧠 Education, Growth & Future Vision
+
+<table align="center" width="100%" border="0">
   <tr>
-    <td width="50%">
-      <h3>🎓 Education</h3>
+    <td width="55%" valign="top">
+      <h3>🎓 Academic Background</h3>
       <p>
         <b>Bilecik Şeyh Edebali University</b><br/>
-        Computer Engineering (B.Sc.)<br/>
-        <small>2016 - 2021 | [cite_start]GPA: 2.99/4.00</small> [cite: 40, 42, 43]
+        <i>B.Sc. in Computer Engineering</i><br/>
+        <small>2016 - 2021 | [cite_start]GPA: 2.99/4.00 [cite: 40, 42, 43]</small>
       </p>
       <br/>
-      <h3>📜 Certificates</h3>
+      <h3>📜 Certifications & Knowledge</h3>
       <ul>
-        <li>Advanced Android Development (Udemy) [cite: 68]</li>
-        <li>Computer Hardware & Ruby [cite: 68]</li>
+        [cite_start]<li><b>Advanced Android Development</b> (Udemy) [cite: 68]</li>
+        [cite_start]<li><b>Computer Hardware & Ruby</b> [cite: 68]</li>
+        [cite_start]<li><b>Mentorship:</b> Speaker at high schools, sharing insights on Software Engineering.[cite: 72]</li>
       </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-blueviolet?style=flat-square&logo=bookstack&logoColor=white" />
     </td>
-    <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=vahitkeskin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" alt="Stats" />
+    <td width="45%" align="center" valign="center">
+      <h3>🔮 Future Focus: AI & Security</h3>
+      <a href="https://github.com/vahitkeskin">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius: 10px;" alt="AI & Coding Animation"/>
+      </a>
+      <br/><br/>
+      <p><i>Integrating Python AI models into Mobile Ecosystems & Cyber Security.</i></p>
+      <div align="center">
+         <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,ruby" />
+      </div>
     </td>
   </tr>
 </table>
