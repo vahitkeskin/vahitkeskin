@@ -19,6 +19,11 @@
   <br/><br/>
 </div>
 
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vahitkeskin&bg_color=0D1117&color=33D6FF&line=33D6FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Vahit Keskin Activity Graph" />
+</div>
+<br/>
+
 ---
 
 ## 👨‍💻 Engineering Profile
@@ -27,17 +32,17 @@
 <tr>
 <td width="65%">
 
-> [cite_start]*"Quality-driven Android Developer who values continuous learning and adaptability."* [cite: 132]
+> *"Quality-driven Android Developer who values continuous learning and adaptability."*
 
-[cite_start]I am a **Computer Engineer** with nearly **5 years of professional experience**, specializing in building large-scale, modular Android applications using **Kotlin** and **Jetpack Compose**[cite: 3, 128].
+I am a **Computer Engineer** with nearly **5 years of professional experience**, specializing in building large-scale, modular Android applications using **Kotlin** and **Jetpack Compose**.
 
-[cite_start]My expertise lies in designing testable and maintainable codebases using **Clean Architecture** and **MVVM/MVI** patterns[cite: 4, 7]. [cite_start]Currently, I contribute to the core mobile experience at **Türk Telekom**, focusing on data transfer features and error management stability[cite: 15, 16].
+My expertise lies in designing testable and maintainable codebases using **Clean Architecture** and **MVVM/MVI** patterns. Currently, I contribute to the core mobile experience at **Türk Telekom**, focusing on data transfer features and error management stability.
 
 **Core Focus:**
-* [cite_start]**Modern Android:** Jetpack Compose, Coroutines, Flow[cite: 7].
-* [cite_start]**Architecture:** Multi-module, Clean Arch, SOLID Principles[cite: 4, 9].
-* [cite_start]**Beyond Mobile:** Python for AI, Cyber Security Analysis, and Backend integrations[cite: 55].
-* [cite_start]**Community:** Speaking at high schools to share industry knowledge[cite: 72].
+* **Modern Android:** Jetpack Compose, Coroutines, Flow.
+* **Architecture:** Multi-module, Clean Arch, SOLID Principles.
+* **Beyond Mobile:** Python for AI, Cyber Security Analysis, and Backend integrations.
+* **Community:** Speaking at high schools to share industry knowledge.
 
 </td>
 <td width="35%" align="center">
@@ -60,7 +65,7 @@
       <small>04/2023 - Present</small>
       <br/>
       <p align="left" style="font-size:12px">
-        Developed data transfer features across devices and improved error management processes for millions of users[cite: 15, 16].
+        Developed data transfer features across devices and improved error management processes for millions of users.
       </p>
       <img src="https://img.shields.io/badge/Tech-Kotlin%20%7C%20Clean%20Arch-blue?style=flat-square"/>
     </td>
@@ -71,8 +76,8 @@
       <br/>
       <small>11/2022 - 04/2023</small>
       <br/>
-       <p align="left" style="font-size:12px">
-        Optimized performance, enhanced UI/UX, and managed complex API integrations for the retail giant[cite: 21, 25].
+        <p align="left" style="font-size:12px">
+        Optimized performance, enhanced UI/UX, and managed complex API integrations for the retail giant.
       </p>
       <img src="https://img.shields.io/badge/Tech-Optimization%20%7C%20UI%2FUX-orange?style=flat-square"/>
     </td>
@@ -83,8 +88,8 @@
       <br/>
       <small>06/2021 - 11/2022</small>
       <br/>
-       <p align="left" style="font-size:12px">
-        Built e-commerce modules, improved stability, and implemented new features for better user engagement[cite: 29, 36].
+        <p align="left" style="font-size:12px">
+        Built e-commerce modules, improved stability, and implemented new features for better user engagement.
       </p>
       <img src="https://img.shields.io/badge/Tech-E--Commerce%20%7C%20MVVM-green?style=flat-square"/>
     </td>
@@ -125,9 +130,9 @@
 </table>
 
 **Detailed Skills:**
-* [cite_start]**Testing:** JUnit, Mockito, Turbine[cite: 10, 82].
-* [cite_start]**Data:** Room DB, SQLite, Retrofit, OkHttp[cite: 8, 9].
-* [cite_start]**Tools:** JIRA, Agile/Scrum, Android Studio, IntelliJ IDEA[cite: 57, 61].
+* **Testing:** JUnit, Mockito, Turbine.
+* **Data:** Room DB, SQLite, Retrofit, OkHttp.
+* **Tools:** JIRA, Agile/Scrum, Android Studio, IntelliJ IDEA.
 
 ---
 
@@ -142,14 +147,14 @@
       <p>
         <b>Bilecik Şeyh Edebali University</b><br/>
         <i>B.Sc. in Computer Engineering</i><br/>
-        <small>2016 - 2021 | [cite_start]GPA: 2.99/4.00 [cite: 40, 42, 43]</small>
+        <small>2016 - 2021 | GPA: 2.99/4.00</small>
       </p>
       <br/>
       <h3>📜 Certifications & Knowledge</h3>
       <ul>
-        [cite_start]<li><b>Advanced Android Development</b> (Udemy) [cite: 68]</li>
-        [cite_start]<li><b>Computer Hardware & Ruby</b> [cite: 68]</li>
-        [cite_start]<li><b>Mentorship:</b> Speaker at high schools, sharing insights on Software Engineering.[cite: 72]</li>
+        <li><b>Advanced Android Development</b> (Udemy)</li>
+        <li><b>Computer Hardware & Ruby</b></li>
+        <li><b>Mentorship:</b> Speaker at high schools, sharing insights on Software Engineering.</li>
       </ul>
       <br/>
       <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-blueviolet?style=flat-square&logo=bookstack&logoColor=white" />
@@ -162,7 +167,7 @@
       <br/><br/>
       <p><i>Integrating Python AI models into Mobile Ecosystems & Cyber Security.</i></p>
       <div align="center">
-         <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,ruby" />
+          <img src="https://skillicons.dev/icons?i=python,tensorflow,linux,ruby" />
       </div>
     </td>
   </tr>
