@@ -46,7 +46,7 @@ My expertise lies in designing testable and maintainable codebases using **Clean
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RieXU0aDN0bWF5cDR4eHRqcDI0dnh5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6Ix8wg5zNCcU/giphy.gif" width="90%"/>
+  <img src="https://raw.githubusercontent.com/vahitkeskin/vahitkeskin/refs/heads/main/l2QZQhDgBli51PThK.gif" width="90%"/>
 </td>
 </tr>
 </table>
