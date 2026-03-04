@@ -32,7 +32,7 @@
 <tr>
 <td width="65%">
 
-> *"Quality-driven Android Developer who values continuous learning and adaptability."*
+> *"Done is better than perfect."*
 
 I am a **Computer Engineer** with nearly **5 years of professional experience**, specializing in building large-scale, modular Android applications using **Kotlin** and **Jetpack Compose**.
 
