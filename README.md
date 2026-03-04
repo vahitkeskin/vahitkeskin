@@ -62,7 +62,7 @@ My expertise lies in designing testable and maintainable codebases using **Clean
       <br/><br/>
       <b>Türk Telekom (Online İşlemler)</b>
       <br/>
-      <small>04/2023 - Present</small>
+      <small>04/2023 - 01/2026</small>
       <br/>
       <p align="left" style="font-size:12px">
         Developed data transfer features across devices and improved error management processes for millions of users.
