@@ -28,6 +28,13 @@
 
 ---
 
+<!-- ====================== CONTRIBUTION GRAPH ====================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vahitkeskin&bg_color=0D1117&color=33D6FF&line=33D6FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
 <!-- ====================== ABOUT ====================== -->
 ## 👨‍💻 About Me
 
@@ -144,10 +151,6 @@ Currently part of the core mobile team at **Türk Telekom**, where I build devic
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vahitkeskin&theme=github_dark" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vahitkeskin&theme=github_dark" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vahitkeskin&bg_color=0D1117&color=33D6FF&line=33D6FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 </div>
 
 ---
