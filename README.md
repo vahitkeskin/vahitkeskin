@@ -1,227 +1,419 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    VAHIT KESKIN                              ║ -->
+<!-- ║              Senior Android Engineer                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:33D6FF&height=260&section=header&text=Vahit%20Keskin&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20Clean%20Architecture&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Vahit%20Keskin&fontSize=72&fontColor=e2e8f0&animation=fadeIn&fontAlignY=34&desc=Senior%20Android%20Engineer&descSize=20&descAlignY=54&descColor=94a3b8" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=33D6FF&center=true&vCenter=true&width=820&lines=Senior+Android+Engineer+%40+T%C3%BCrk+Telekom;Building+Scalable%2C+Multi-Module+Android+Apps;Kotlin+%7C+Jetpack+Compose+%7C+Coroutines+%7C+Flow;Clean+Architecture+%7C+MVVM+%2F+MVI+%7C+SOLID;9%2B+Apps+Published+on+Google+Play;Exploring+AI+with+Python+%26+Cyber+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Android+Apps+with+Kotlin+%26+Compose;Clean+Architecture+%7C+MVVM+%2F+MVI+%7C+Multi-Module;9%2B+Apps+Published+on+Google+Play+Store;Exploring+AI+%2F+Python+%26+Cyber+Security" alt="Typing SVG" />
   </a>
-</div>
-
-<!-- ====================== SOCIAL / CONTACT ====================== -->
-<div align="center">
-  <br/>
-  <a href="https://vahitkeskin.github.io/iamvahitkeskin/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/developer?id=vahitkeskin" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-  <a href="https://medium.com/@vahitkeskin" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:vahitkeskin07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=vahitkeskin&style=for-the-badge&color=33D6FF&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/vahitkeskin?style=for-the-badge&color=33D6FF&labelColor=0D1117&logo=github"/>
-  <img src="https://img.shields.io/badge/Google_Play_Apps-9%2B-00C853?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B_Years-7F52FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════ QUICK LINKS ═══════════════════ -->
 
-<!-- ====================== CONTRIBUTION GRAPH ====================== -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vahitkeskin&bg_color=0D1117&color=33D6FF&line=33D6FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+  <a href="https://vahitkeskin.github.io/iamvahitkeskin/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vahit-keskin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/developer?id=vahitkeskin"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>&nbsp;
+  <a href="https://medium.com/@vahitkeskin"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
+  <a href="mailto:vahitkeskin07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vahitkeskin&style=flat-square&color=7C3AED&label=Profile+Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/vahitkeskin?style=flat-square&color=7C3AED&labelColor=1a1a2e&logo=github&label=Followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Play_Store_Apps-9+-34A853?style=flat-square&logo=googleplay&logoColor=white&labelColor=1a1a2e"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Experience-5+_Years-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vahitkeskin&bg_color=0D1117&color=7C3AED&line=7C3AED&point=e2e8f0&hide_border=true&area=true&area_color=7C3AED&custom_title=Daily%20Commit%20Activity" width="100%" alt="Daily Commit Activity"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahitkeskin&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=94a3b8" width="70%" alt="Commit Streak"/>
 </div>
 
 ---
 
-<!-- ====================== ABOUT ====================== -->
-## 👨‍💻 About Me
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```kotlin
-data class Engineer(
-    val name: String = "Vahit Keskin",
-    val role: String = "Senior Android Engineer",
-    val company: String = "Türk Telekom",
-    val location: String = "İzmir, Türkiye 🇹🇷",
-    val experienceYears: Int = 5,
-    val publishedApps: Int = 9,
-    val focus: List<String> = listOf("Kotlin", "Jetpack Compose", "Clean Architecture"),
-    val currentlyLearning: List<String> = listOf("AI / Python", "Cyber Security")
-)
+object VahitKeskin {
+    val name       = "Vahit Keskin"
+    val role       = "Senior Android Engineer"
+    val company    = "Türk Telekom"
+    val location   = "İzmir, Türkiye 🇹🇷"
+    val experience = "5+ years"
+    val apps       = "9+ on Google Play"
+
+    val skills = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "MVVM / MVI")
+    val learning = listOf("AI / Python", "Cyber Security")
+}
 ```
 
-I'm a **Computer Engineer** with **5+ years** of professional experience building large-scale, **multi-module** Android applications that reach **millions of users**. I care deeply about **clean, testable, maintainable** codebases and shipping reliable software that performs at scale.
+**Computer Engineer** with **5+ years** of experience building large-scale, multi-module Android applications for **millions of users**. Currently at **Türk Telekom**, building device-to-device data-transfer features and strengthening error-management stability for production apps.
 
-Currently part of the core mobile team at **Türk Telekom**, where I build device-to-device data-transfer features and strengthen error-management stability for production apps used daily by millions. Alongside my professional work, I independently **design, develop, and publish** my own apps on the **Google Play Store** — spanning productivity, communication, utilities, and games.
+Independently **design, develop, and publish** apps on the **Google Play Store** — spanning productivity, communication, utilities, and games.
 
-- 🔭 **Building:** Modern Android apps with **Jetpack Compose**, Coroutines & Flow
-- 🏗️ **Architecting:** Multi-module, **Clean Architecture**, MVVM / MVI, SOLID
-- 📱 **Shipping:** **9+ apps published** independently on Google Play
-- 🤖 **Exploring:** Integrating **Python / AI models** into mobile ecosystems & **Cyber Security**
-- 🎤 **Sharing:** Mentoring & speaking at high schools about Software Engineering
-- 📫 **Reach me:** [vahitkeskin07@gmail.com](mailto:vahitkeskin07@gmail.com)
+<br/>
+
+> 🔭 &nbsp;Building modern Android apps with **Jetpack Compose**, Coroutines & Flow
+> 
+> 🏗️ &nbsp;Architecting multi-module, **Clean Architecture**, MVVM / MVI, SOLID
+> 
+> 📱 &nbsp;Shipped **9+ apps** independently on Google Play
+> 
+> 🤖 &nbsp;Exploring **Python / AI** integration & **Cyber Security**
+> 
+> 🎤 &nbsp;Mentoring & speaking at high schools about Software Engineering
 
 ---
 
-<!-- ====================== FEATURED APPS ====================== -->
+<!-- ═══════════════════ PUBLISHED APPS ═══════════════════ -->
+
 ## 📱 Published Apps on Google Play
 
-> Independently designed, developed, and shipped to production — available on the [Google Play Store](https://play.google.com/store/apps/developer?id=vahitkeskin). Each app is built end-to-end: concept → architecture → UI → release & maintenance.
+> Independently designed, developed, and shipped to production. Each app is built end-to-end: **concept → architecture → UI → release & maintenance**.
 
-| # | | App | Category | Description | Stack | Links |
-|:-:|:-:|:----|:---------|:------------|:------|:------:|
-| **1** | <img src="assets/app-icons/equatix.png" width="44" height="44"/> | ⭐ **Equatix** | Education / Math | Interactive mathematics app — rated **5.0** on Google Play. | `Kotlin` `Compose` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.equatix) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/Equatix) |
-| **2** | <img src="assets/app-icons/blumesh.jpg" width="44" height="44"/> | 📡 **BluMesh** — *Offline P2P Chat* | Communication | Peer-to-peer messaging that works **fully offline** over mesh networking. | `Kotlin` `Bluetooth/P2P` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.blumesh) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/BluMesh) |
-| **3** | <img src="assets/app-icons/letswapp.png" width="44" height="44"/> | 📚 **LetSwApp** — *Kitap Takas* | Social / Books | Book-exchange platform connecting readers to swap titles. | `Kotlin` `Firebase` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.letswapp) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/TellaKitap) |
-| **4** | <img src="assets/app-icons/hatirlaticim.jpg" width="44" height="44"/> | 🔔 **Hatırlatıcım** — *Akıllı Bildirim* | Productivity | Smart reminder & notification manager. | `Kotlin` `WorkManager` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.hatirlaticim) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/Hatirlaticim) |
-| **5** | <img src="assets/app-icons/fencecalculator.jpg" width="44" height="44"/> | 📐 **Tel Çit Hesaplama** | Tools / Utility | Fence-material calculator for field & construction use. | `Kotlin` `Compose` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.fencecalculator) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/FenceCalculator) |
-| **6** | <img src="assets/app-icons/activenote.png" width="44" height="44"/> | 📝 **ActiveNote** | Productivity | Fast, lightweight note-taking app. | `Kotlin` `Room` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=org.vahitkeskin.activenote) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/ActiveNote) |
-| **7** | <img src="assets/app-icons/yolculukdefterim.jpg" width="44" height="44"/> | 🧳 **Yolculuk Defterim** | Travel / Lifestyle | Personal travel journal & trip logger. | `Kotlin` `Room` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.yolculukdefterim) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/YolculukDefterim) |
-| **8** | <img src="assets/app-icons/iradix.png" width="44" height="44"/> | 🧠 **Iradix** — *Digital Willpower* | Wellbeing | Digital self-control & habit/willpower tracker. | `Kotlin` `Compose` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.iradix) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/Iradix) |
-| **9** | <img src="assets/app-icons/golgemeclisi.png" width="44" height="44"/> | 🩸 **Gölge Meclisi** — *Vampir Köylü* | Game | Social-deduction party game (Mafia / Werewolf style). | `Kotlin` `Compose` | [<img src="https://img.shields.io/badge/Play-414141?style=flat-square&logo=google-play&logoColor=00C853"/>](https://play.google.com/store/apps/details?id=com.vahitkeskin.golgemeclisi) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>](https://github.com/vahitkeskin/GolgeMeclisi) |
-| | | | | | | **Total: 9 apps** |
+<br/>
+
+<!-- Row 1 -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="assets/app-icons/equatix.png" width="56" height="56"/><br/>
+<b>⭐ Equatix</b><br/>
+<sub>Education / Math</sub><br/>
+<sub>Interactive math app — rated <b>5.0</b> ⭐</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.equatix"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/Equatix"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/blumesh.jpg" width="56" height="56"/><br/>
+<b>📡 BluMesh</b><br/>
+<sub>Communication</sub><br/>
+<sub>P2P messaging — fully <b>offline</b></sub><br/>
+<sub><code>Kotlin</code> <code>Bluetooth/P2P</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.blumesh"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/BluMesh"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/letswapp.png" width="56" height="56"/><br/>
+<b>📚 LetSwApp</b><br/>
+<sub>Social / Books</sub><br/>
+<sub>Book-exchange platform for readers</sub><br/>
+<sub><code>Kotlin</code> <code>Firebase</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.letswapp"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/TellaKitap"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Row 2 -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="assets/app-icons/hatirlaticim.jpg" width="56" height="56"/><br/>
+<b>🔔 Hatırlatıcım</b><br/>
+<sub>Productivity</sub><br/>
+<sub>Smart reminder & notification manager</sub><br/>
+<sub><code>Kotlin</code> <code>WorkManager</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.hatirlaticim"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/Hatirlaticim"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/fencecalculator.jpg" width="56" height="56"/><br/>
+<b>📐 Tel Çit Hesaplama</b><br/>
+<sub>Tools / Utility</sub><br/>
+<sub>Fence-material calculator</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.fencecalculator"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/FenceCalculator"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/activenote.png" width="56" height="56"/><br/>
+<b>📝 ActiveNote</b><br/>
+<sub>Productivity</sub><br/>
+<sub>Fast, lightweight note-taking</sub><br/>
+<sub><code>Kotlin</code> <code>Room</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=org.vahitkeskin.activenote"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/ActiveNote"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Row 3 -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="assets/app-icons/yolculukdefterim.jpg" width="56" height="56"/><br/>
+<b>🧳 Yolculuk Defterim</b><br/>
+<sub>Travel / Lifestyle</sub><br/>
+<sub>Personal travel journal & trip logger</sub><br/>
+<sub><code>Kotlin</code> <code>Room</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.yolculukdefterim"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/YolculukDefterim"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/iradix.png" width="56" height="56"/><br/>
+<b>🧠 Iradix</b><br/>
+<sub>Wellbeing</sub><br/>
+<sub>Digital willpower & habit tracker</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.iradix"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/Iradix"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/golgemeclisi.png" width="56" height="56"/><br/>
+<b>🩸 Gölge Meclisi</b><br/>
+<sub>Game</sub><br/>
+<sub>Social-deduction party game</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.golgemeclisi"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/GolgeMeclisi"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/developer?id=vahitkeskin" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20View%20All%20Apps%20on%20Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=00C853"/>
+  <br/>
+  <a href="https://play.google.com/store/apps/developer?id=vahitkeskin">
+    <img src="https://img.shields.io/badge/▶_View_All_on_Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-#### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**
 
-#### Android & UI
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines_%2F_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-#### Architecture & DI
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-blueviolet?style=for-the-badge)
-![MVVM / MVI](https://img.shields.io/badge/MVVM_%2F_MVI-9C27B0?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt_%2F_Dagger-2196F3?style=for-the-badge&logo=android&logoColor=white)
-![Modularization](https://img.shields.io/badge/Multi--Module-FF7043?style=for-the-badge)
+**Android & UI**
 
-#### Data & Networking
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
-![Room](https://img.shields.io/badge/Room_%2F_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![DataStore](https://img.shields.io/badge/DataStore-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines_/_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-#### Testing & DevOps
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito_%2F_Turbine-FF6F00?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Architecture & DI**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-7C3AED?style=flat-square)
+![MVVM / MVI](https://img.shields.io/badge/MVVM_/_MVI-9C27B0?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt_/_Dagger-2196F3?style=flat-square&logo=android&logoColor=white)
+![Multi-Module](https://img.shields.io/badge/Multi--Module-FF7043?style=flat-square)
+
+**Data & Networking**
+
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white)
+![Room](https://img.shields.io/badge/Room_/_SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![DataStore](https://img.shields.io/badge/DataStore-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Testing & DevOps**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito_/_Turbine-FF6F00?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ====================== GITHUB STATS + COMMITS ====================== -->
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vahitkeskin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=33D6FF&icon_color=33D6FF&text_color=c9d1d9&bg_color=0D1117&custom_title=Vahit's%20GitHub%20Stats" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahitkeskin&layout=compact&langs_count=8&hide_border=true&title_color=33D6FF&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vahitkeskin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0D1117&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahitkeskin&layout=compact&langs_count=8&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
-<!-- ===== TOTAL COMMITS (prominent) ===== -->
+<br/>
+
 <div align="center">
-  <h3>🔥 Total Contributions & Commits</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahitkeskin&theme=tokyonight&hide_border=true&background=0D1117&ring=33D6FF&fire=33D6FF&currStreakLabel=33D6FF" alt="Commit Streak" width="70%"/>
-  <br/><br/>
   <a href="https://github.com/vahitkeskin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahitkeskin&theme=github_dark" width="100%" alt="Profile Summary — Total Commits"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahitkeskin&theme=github_dark" width="100%" alt="Profile Summary"/>
   </a>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vahitkeskin&theme=github_dark" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vahitkeskin&theme=github_dark" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vahitkeskin&theme=github_dark" width="48%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vahitkeskin&theme=github_dark" width="48%"/>
 </div>
 
 ---
 
-<!-- ====================== EXPERIENCE ====================== -->
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+
 ## 💼 Professional Experience
 
-| Company | Role & Period | Highlights | Stack |
-|:--------|:--------------|:-----------|:------|
-| **Türk Telekom**<br/>*(Online İşlemler)* | Senior Android Engineer<br/>`04/2023 – Present` | Built device-to-device data-transfer features and strengthened error-management for production apps serving **millions** of users. Drove modularization and code quality across the core mobile team. | `Kotlin` `Compose` `Clean Arch` |
-| **Metro Market**<br/>*(via Appcent)* | Android Developer<br/>`11/2022 – 04/2023` | Optimized app performance, refined UI/UX, and managed complex API integrations for a leading retail brand. | `Kotlin` `MVVM` `UI/UX` |
-| **T-Soft**<br/>*(E-Commerce)* | Android Developer<br/>`06/2021 – 11/2022` | Built e-commerce modules, improved stability, and shipped features that boosted user engagement. | `Kotlin` `MVVM` `Retrofit` |
-| **Independent**<br/>*(Google Play)* | Indie Android Developer<br/>`2021 – Present` | Designed, developed, and published **9+ apps** end-to-end — from concept and architecture to release & maintenance. | `Kotlin` `Compose` `Firebase` |
+<div align="center">
+<table>
+<tr>
+<td>
+
+**🏢 Türk Telekom** · *Online İşlemler*
+
+`Senior Android Engineer` · **04/2023 – Present**
+
+Built device-to-device data-transfer features and strengthened error-management for production apps serving **millions** of users. Drove modularization and code quality across the core mobile team.
+
+`Kotlin` `Compose` `Clean Architecture` `Multi-Module`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🛒 Metro Market** · *via Appcent*
+
+`Android Developer` · **11/2022 – 04/2023**
+
+Optimized app performance, refined UI/UX, and managed complex API integrations for a leading retail brand.
+
+`Kotlin` `MVVM` `UI/UX` `Retrofit`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🛍️ T-Soft** · *E-Commerce*
+
+`Android Developer` · **06/2021 – 11/2022**
+
+Built e-commerce modules, improved stability, and shipped features that boosted user engagement.
+
+`Kotlin` `MVVM` `Retrofit` `Room`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🚀 Independent** · *Google Play*
+
+`Indie Android Developer` · **2021 – Present**
+
+Designed, developed, and published **9+ apps** end-to-end — from concept and architecture to release & maintenance.
+
+`Kotlin` `Compose` `Firebase` `Room`
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<!-- ====================== EDUCATION ====================== -->
+<!-- ═══════════════════ EDUCATION ═══════════════════ -->
+
 ## 🎓 Education & Growth
 
+<div align="center">
 <table>
-  <tr>
-    <td width="55%" valign="top">
-      <b>🏛️ Bilecik Şeyh Edebali University</b><br/>
-      <i>B.Sc. in Computer Engineering</i><br/>
-      <code>2016 – 2021</code> &nbsp;•&nbsp; GPA: <b>2.99 / 4.00</b>
-      <br/><br/>
-      <b>📜 Certifications & Continuous Learning</b>
-      <ul>
-        <li>Advanced Android Development — <i>Udemy</i></li>
-        <li>Computer Hardware & Ruby Programming</li>
-        <li>Mentorship — Speaker at high schools on Software Engineering</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <b>🔮 Current Focus</b>
-      <ul>
-        <li>🤖 Integrating <b>Python / AI models</b> into mobile</li>
-        <li>🔐 <b>Cyber Security</b> analysis & best practices</li>
-        <li>🏗️ Scaling <b>multi-module</b> architectures</li>
-        <li>🧪 Test-driven, high-coverage development</li>
-        <li>📱 Growing my <b>Google Play</b> app portfolio</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Education
+
+**Bilecik Şeyh Edebali University**
+*B.Sc. in Computer Engineering*
+`2016 – 2021` · GPA: **2.99 / 4.00**
+
+**📜 Certifications**
+- Advanced Android Development — *Udemy*
+- Computer Hardware & Ruby Programming
+- Mentorship — Speaker at high schools
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 Current Focus
+
+- 🤖 Integrating **Python / AI models** into mobile
+- 🔐 **Cyber Security** analysis & best practices
+- 🏗️ Scaling **multi-module** architectures
+- 🧪 Test-driven, high-coverage development
+- 📱 Growing my **Google Play** app portfolio
+
+</td>
+</tr>
 </table>
+</div>
 
 ---
 
-<!-- ====================== TROPHIES ====================== -->
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vahitkeskin&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vahitkeskin&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
 </div>
 
 ---
 
-<!-- ====================== CONNECT ====================== -->
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
   <p>Open to collaboration, knowledge-sharing, and conversations about Android, Kotlin & mobile architecture.</p>
-  <a href="https://www.linkedin.com/in/vahit-keskin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/developer?id=vahitkeskin" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-  <a href="https://medium.com/@vahitkeskin" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:vahitkeskin07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <br/>
+  <a href="https://vahitkeskin.github.io/iamvahitkeskin/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vahit-keskin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://play.google.com/store/apps/developer?id=vahitkeskin"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/></a>&nbsp;
+  <a href="https://medium.com/@vahitkeskin"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
+  <a href="mailto:vahitkeskin07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33D6FF,100:0D1117&height=120&section=footer"/>
-  <p>© 2026 <b>Vahit Keskin</b> • Built with ❤️ and Kotlin</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer"/>
+  <br/>
+  <sub>© 2026 <b>Vahit Keskin</b> · Built with ❤️ and Kotlin</sub>
 </div>
