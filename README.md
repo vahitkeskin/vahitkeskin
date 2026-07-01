@@ -91,40 +91,10 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 
 <!-- ═══════════════════ PUBLISHED APPS ═══════════════════ -->
 
-<!-- 👑 FEATURED APP 👑 -->
-<div align="center">
-<table width="100%">
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="assets/app-icons/musixy.png" width="120" style="border-radius: 22%; box-shadow: 0 4px 20px rgba(124, 58, 237, 0.4);"/><br/><br/>
-      <img src="https://img.shields.io/badge/Featured_App-🥇-7C3AED?style=for-the-badge&logoColor=white"/>
-    </td>
-    <td width="70%" valign="top" align="left">
-      <h3>🎵 Müzik Çalar (Music Player)</h3>
-      <p><i>Enhance your music experience with an advanced equalizer, custom widgets, and a floating window!</i></p>
-      <p>A premium local audio player built from the ground up to organize, manage, and play your music library. Ad-free, offline-first, and highly customizable.</p>
-      <p>
-        🎯 <b>Key Features:</b><br/>
-        • 💿 <b>Unique Player Discs:</b> Choose from retro vinyl, modern CD, or DVD designs.<br/>
-        • 🎈 <b>Floating Bubble Player:</b> Overlay controls over any application for quick access.<br/>
-        • 📐 <b>Home Screen Widgets:</b> 5 different sizes/styles custom-designed for a premium look.<br/>
-        • 🔊 <b>Advanced EQ & Virtualizer:</b> HQ audio optimization with seamless crossfade.
-      </p>
-      <sub><b>Tech Stack:</b> <code>Kotlin</code> <code>Jetpack Compose</code> <code>Coroutines</code> <code>HQ Audio</code> <code>Widgets</code></sub><br/><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.musixy"><img src="https://img.shields.io/badge/Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="28"/></a>&nbsp;
-      <a href="https://github.com/vahitkeskin/Musixy"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- Row 1 -->
+<!-- 👑 PUBLISHED APPS GRID 👑 -->
 <div align="center">
 <table>
+<!-- Row 1 -->
 <tr>
 <td align="center" width="33%">
 <img src="assets/app-icons/equatix.png" width="56" height="56"/><br/>
@@ -154,12 +124,7 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 <a href="https://github.com/vahitkeskin/TellaKitap"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 </tr>
-</table>
-</div>
-
 <!-- Row 2 -->
-<div align="center">
-<table>
 <tr>
 <td align="center" width="33%">
 <img src="assets/app-icons/hatirlaticim.jpg" width="56" height="56"/><br/>
@@ -189,12 +154,7 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 <a href="https://github.com/vahitkeskin/ActiveNote"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 </tr>
-</table>
-</div>
-
 <!-- Row 3 -->
-<div align="center">
-<table>
 <tr>
 <td align="center" width="33%">
 <img src="assets/app-icons/yolculukdefterim.jpg" width="56" height="56"/><br/>
@@ -224,12 +184,7 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 <a href="https://github.com/vahitkeskin/GolgeMeclisi"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 </tr>
-</table>
-</div>
-
 <!-- Row 4 -->
-<div align="center">
-<table>
 <tr>
 <td align="center" width="33%">
 <img src="assets/app-icons/musixy.png" width="56" height="56"/><br/>
