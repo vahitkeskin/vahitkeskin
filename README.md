@@ -91,12 +91,6 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 
 <!-- ═══════════════════ PUBLISHED APPS ═══════════════════ -->
 
-## 📱 Published Apps on Google Play
-
-> Independently designed, developed, and shipped to production. Each app is built end-to-end: **concept → architecture → UI → release & maintenance**.
-
-<br/>
-
 <!-- 👑 FEATURED APP 👑 -->
 <div align="center">
 <table width="100%">
@@ -256,8 +250,6 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 <a href="https://github.com/vahitkeskin/RubikSync"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Next_App-Coming_Soon-7C3AED?style=flat-square" height="20"/><br/><br/>
-<sub>Stay tuned! 🚀</sub>
 </td>
 </tr>
 </table>
