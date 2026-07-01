@@ -205,6 +205,13 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 <a href="https://github.com/vahitkeskin/RubikSync"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 <td align="center" width="33%">
+<img src="assets/app-icons/android_coding.gif" width="56" height="56" style="border-radius: 20%;"/><br/>
+<b>⚡ Coding...</b><br/>
+<sub>Android Bot</sub><br/>
+<sub>Building next scalable app</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/developer?id=vahitkeskin"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
 </td>
 </tr>
 </table>
