@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Android+Apps+with+Kotlin+%26+Compose;Clean+Architecture+%7C+MVVM+%2F+MVI+%7C+Multi-Module;9%2B+Apps+Published+on+Google+Play+Store;Exploring+AI+%2F+Python+%26+Cyber+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Android+Apps+with+Kotlin+%26+Compose;Clean+Architecture+%7C+MVVM+%2F+MVI+%7C+Multi-Module;11%2B+Apps+Published+on+Google+Play+Store;Exploring+AI+%2F+Python+%26+Cyber+Security" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/vahitkeskin?style=flat-square&color=7C3AED&labelColor=1a1a2e&logo=github&label=Followers"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Play_Store_Apps-9+-34A853?style=flat-square&logo=googleplay&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Play_Store_Apps-11+-34A853?style=flat-square&logo=googleplay&logoColor=white&labelColor=1a1a2e"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Experience-5+_Years-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 </div>
@@ -64,7 +64,7 @@ object VahitKeskin {
     val company    = "Türk Telekom"
     val location   = "İzmir, Türkiye 🇹🇷"
     val experience = "5+ years"
-    val apps       = "9+ on Google Play"
+    val apps       = "11+ on Google Play"
 
     val skills = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "MVVM / MVI")
     val learning = listOf("AI / Python", "Cyber Security")
@@ -81,7 +81,7 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 > 
 > 🏗️ &nbsp;Architecting multi-module, **Clean Architecture**, MVVM / MVI, SOLID
 > 
-> 📱 &nbsp;Shipped **9+ apps** independently on Google Play
+> 📱 &nbsp;Shipped **11+ apps** independently on Google Play
 > 
 > 🤖 &nbsp;Exploring **Python / AI** integration & **Cyber Security**
 > 
@@ -95,6 +95,37 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 
 > Independently designed, developed, and shipped to production. Each app is built end-to-end: **concept → architecture → UI → release & maintenance**.
 
+<br/>
+
+<!-- 👑 FEATURED APP 👑 -->
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/app-icons/musixy.png" width="120" style="border-radius: 22%; box-shadow: 0 4px 20px rgba(124, 58, 237, 0.4);"/><br/><br/>
+      <img src="https://img.shields.io/badge/Featured_App-🥇-7C3AED?style=for-the-badge&logoColor=white"/>
+    </td>
+    <td width="70%" valign="top" align="left">
+      <h3>🎵 Müzik Çalar (Music Player)</h3>
+      <p><i>Enhance your music experience with an advanced equalizer, custom widgets, and a floating window!</i></p>
+      <p>A premium local audio player built from the ground up to organize, manage, and play your music library. Ad-free, offline-first, and highly customizable.</p>
+      <p>
+        🎯 <b>Key Features:</b><br/>
+        • 💿 <b>Unique Player Discs:</b> Choose from retro vinyl, modern CD, or DVD designs.<br/>
+        • 🎈 <b>Floating Bubble Player:</b> Overlay controls over any application for quick access.<br/>
+        • 📐 <b>Home Screen Widgets:</b> 5 different sizes/styles custom-designed for a premium look.<br/>
+        • 🔊 <b>Advanced EQ & Virtualizer:</b> HQ audio optimization with seamless crossfade.
+      </p>
+      <sub><b>Tech Stack:</b> <code>Kotlin</code> <code>Jetpack Compose</code> <code>Coroutines</code> <code>HQ Audio</code> <code>Widgets</code></sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.musixy"><img src="https://img.shields.io/badge/Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" height="28"/></a>&nbsp;
+      <a href="https://github.com/vahitkeskin/Musixy"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+<hr/>
 <br/>
 
 <!-- Row 1 -->
@@ -197,6 +228,36 @@ Independently **design, develop, and publish** apps on the **Google Play Store**
 <sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
 <a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.golgemeclisi"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
 <a href="https://github.com/vahitkeskin/GolgeMeclisi"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Row 4 -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="assets/app-icons/musixy.png" width="56" height="56"/><br/>
+<b>🎧 Müzik Çalar</b><br/>
+<sub>Music / Audio</sub><br/>
+<sub>Advanced player & widgets</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.musixy"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/Musixy"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="assets/app-icons/rubiksync.png" width="56" height="56"/><br/>
+<b>🧩 RubikSync</b><br/>
+<sub>Education / Utility</sub><br/>
+<sub>AI Matrix Rubik's Cube solver</sub><br/>
+<sub><code>Kotlin</code> <code>Compose</code></sub><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.vahitkeskin.rubiksync"><img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white" height="20"/></a>
+<a href="https://github.com/vahitkeskin/RubikSync"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" height="20"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Next_App-Coming_Soon-7C3AED?style=flat-square" height="20"/><br/><br/>
+<sub>Stay tuned! 🚀</sub>
 </td>
 </tr>
 </table>
@@ -337,7 +398,7 @@ Built e-commerce modules, improved stability, and shipped features that boosted 
 
 `Indie Android Developer` · **2021 – Present**
 
-Designed, developed, and published **9+ apps** end-to-end — from concept and architecture to release & maintenance.
+Designed, developed, and published **11+ apps** end-to-end — from concept and architecture to release & maintenance.
 
 `Kotlin` `Compose` `Firebase` `Room`
 
